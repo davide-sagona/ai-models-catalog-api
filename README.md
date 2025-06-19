@@ -84,3 +84,6 @@ Perfect for building dashboards, automating logic, or comparing options, without
 
 The service is free to use, including for commercial purposes. Requests are unlimited, but avoid making too many in a short time: you have a credit of 100 requests, which replenishes at a rate of 1 request per second.
 To increase the limits and remove the attribution requirement (which is mandatory in public projects), contact me at: d.sagona.20@gmail.com
+
+## Notes
+At the moment, OpenAI models list doesn't include "Premium" Tier's models, but I'm working on it.
