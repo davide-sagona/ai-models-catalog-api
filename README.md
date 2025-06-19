@@ -33,7 +33,7 @@ Perfect for building dashboards, automating logic, or comparing options, without
 {
   "model_names": ["gemini-2.5-pro-preview-06-05", ..., "gemini-2.0-flash-thinking-exp-01-21"],
   "detailed_version": [
-    // model details here
+    **model details here**
   ],
   "last_updated_timestamp": 1750290515.4080338,
   "last_updated_human": "2025-06-18T23:48:35.408034",
@@ -63,19 +63,19 @@ Perfect for building dashboards, automating logic, or comparing options, without
 
 {
   "google": {
-    // model IDs and metadata
+    **model IDs and metadata**
   },
 
   "anthropic": {
-    // model IDs and metadata
+    **model IDs and metadata**
   },
 
   "openai": {
-    // model IDs and metadata
+    **model IDs and metadata**
   },
 
   "deepseek": {
-    // model IDs and metadata
+    **model IDs and metadata**
   }
 }
 ```
