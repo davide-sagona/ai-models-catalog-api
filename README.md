@@ -1,4 +1,4 @@
-# ai-models-catalog-api 🧠
+# 🧠 ai-models-catalog-api
 A simple and free API that lists AI models usable via API from top providers. Instantly access to real time updated model names, descriptions and metadata.
 
 No API key needed, it currently suppors OpenAI, Google (Gemini), DeepSeek and Anthropic.
@@ -29,17 +29,17 @@ Perfect for building dashboards, automating logic, or comparing options, without
 ***
 **Sample Response:**
 
-```json
-{
-  "model_names": ["gemini-2.5-pro-preview-06-05", ..., "gemini-2.0-flash-thinking-exp-01-21"],
-  "detailed_version": [
-    **model details here**
-  ],
-  "last_updated_timestamp": 1750290515.4080338,
-  "last_updated_human": "2025-06-18T23:48:35.408034",
-  "error": null
-}
-```
+
+    {
+      "model_names": ["gemini-2.5-pro-preview-06-05", ..., "gemini-2.0-flash-thinking-exp-01-21"],
+      "detailed_version": [
+        **model details here**
+      ],
+      "last_updated_timestamp": 1750290515.4080338,
+      "last_updated_human": "2025-06-18T23:48:35.408034",
+      "error": null
+    }
+
 ---
 ## 🌐 Get models from all supported providers:
 
@@ -59,26 +59,24 @@ Perfect for building dashboards, automating logic, or comparing options, without
 ---
 
 **Sample Response:**
-```json
 
-{
-  "google": {
-    **model IDs and metadata**
-  },
-
-  "anthropic": {
-    **model IDs and metadata**
-  },
-
-  "openai": {
-    **model IDs and metadata**
-  },
-
-  "deepseek": {
-    **model IDs and metadata**
-  }
-}
-```
+    {
+      "google": {
+        **model IDs and metadata**
+      },
+    
+      "anthropic": {
+        **model IDs and metadata**
+      },
+    
+      "openai": {
+        **model IDs and metadata**
+      },
+    
+      "deepseek": {
+        **model IDs and metadata**
+      }
+    }
 
 ---
 
